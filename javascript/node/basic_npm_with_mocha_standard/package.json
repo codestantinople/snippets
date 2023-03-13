@@ -1,0 +1,26 @@
+{
+  "name": "basic-npm",
+  "version": "0.0.1",
+  "description": "A basic npm built by Codestantinople",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<url>"
+  },
+  "standard": {
+    "env": [ "mocha" ]
+  },
+  "keywords": [
+    "jira",
+    "codestantinople"
+  ],
+  "author": "Sonja Marr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "<url>"
+  },
+  "homepage": "<url>"
+}
