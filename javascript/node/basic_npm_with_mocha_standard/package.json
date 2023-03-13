@@ -14,11 +14,10 @@
     "env": [ "mocha" ]
   },
   "keywords": [
-    "jira",
-    "codestantinople"
+    "npm"
   ],
-  "author": "Sonja Marr",
-  "license": "UNLICENSED",
+  "author": "",
+  "license": "<Your License>",
   "bugs": {
     "url": "<url>"
   },
